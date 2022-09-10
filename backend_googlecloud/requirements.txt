@@ -1,0 +1,6 @@
+flask 
+librosa 
+matplotlib
+tensorflow
+google-api-core
+google-api-python-client
